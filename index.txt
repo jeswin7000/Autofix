@@ -67,7 +67,7 @@ View All Services
 
 #---------- ABOUT ----------#
 
-alt = vehicle repire equipments
+alt = vehicle repair equipments
 
 About Us
 
